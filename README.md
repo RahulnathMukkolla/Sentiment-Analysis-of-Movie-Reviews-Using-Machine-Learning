@@ -1,1 +1,3 @@
 # Sentiment-Analysis-of-Movie-Reviews-Using-Machine-Learning
+
+-This project aims to develop a machine learning model for sentiment analysis of movie reviews. Leveraging Python and popular libraries such as Pandas, Scikit-learn, and NLTK, the project covers data preprocessing, feature extraction, model selection, and evaluation. By training models like Logistic Regression on labeled movie review datasets,the system can classify reviews as positive or negative based on their textual content. With detailed steps and code examples, this project serves as a practical guide for implementing sentiment analysis in natural language processing tasks.
